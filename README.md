@@ -1,7 +1,8 @@
 # X-Distraction-Remover
+Removing all distracting features from X.com<br>
 Google Chrome/Microsoft Edge用の拡張機能です。<br>
 Xで気が散る部分を静かにして、情報発信に集中できる環境を整えます。<br>
-Removing all distracting features from X.com
+（offにすれば、気が散るモードに戻せます。）
 
 # 具体的な機能
 右のカラムのほぼ全てを消して、左のカラムから検索ボタンを消して、<br>
