@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "X Distraction Remover",
+    "version": "1.0",
+    "description": "Xのトレンドやサイドバーなど、気が散る要素を非表示にし、ホームからプロフィールページへリダイレクトします。",
+    "icons": {
+        "48": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://x.com/*", "*://twitter.com/*"],
+            "js": ["content.js"],
+            "css": ["content.css"]
+        }
+    ]
+}

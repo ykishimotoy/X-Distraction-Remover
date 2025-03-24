@@ -1,0 +1,21 @@
+/* サイドバーを非表示 */
+[data-testid="sidebarColumn"] {
+    display: none !important;
+}
+
+/* おすすめユーザーセルを非表示 */
+[data-testid="UserCell"] {
+    display: none !important;
+}
+
+/* 検索バーを非表示 */
+[aria-label="調べたいものを検索"] {
+    display: none !important;
+}
+
+/* トレンド、プレミアムサブスク、おすすめユーザーを非表示 */
+aside[aria-label="プレミアムにサブスクライブ"],
+aside[aria-label="タイムライン: トレンド"],
+aside[aria-label="おすすめユーザー"] {
+    display: none !important;
+}
