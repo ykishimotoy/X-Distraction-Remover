@@ -1,5 +1,5 @@
 # X-Distraction-Remover
-Google Chromeの拡張機能です。<br>
+Google Chrome/Microsoft Edge用の拡張機能です。<br>
 Xで気が散る部分を静かにして、情報発信に集中できる環境を整えます。<br>
 Removing all distracting features from X.com
 
@@ -12,8 +12,14 @@ Removing all distracting features from X.com
 1. 本レポジトリのファイルを、「X-Distraction-Remover」と名付けたローカルのフォルダに保存する。
 2. content.jsの1行目のURLを、自分のIDのURLに変更
 
-# 使い方
-1. Google Chromeで下記URLにアクセス<br>
-chrome://extensions/
-2. 右上のデベロッパーモードをonにする
-3. 左上の「パッケージ化されていない拡張機能を読み込む」で「X-Distraction-Remover」フォルダを指定する。
+# Chromeでの使い方
+1. Chromeで下記URLにアクセスする。<br>
+chrome://extensions/<br>
+3. 右上のデベロッパーモードをonにする。
+4. 左上の「パッケージ化されていない拡張機能を読み込む」で「X-Distraction-Remover」フォルダを指定する。
+
+# Edgeでの使い方
+1. Edgeで下記URLにアクセスする。<br>
+edge://extensions/
+3. 左上のデベロッパーモードをonにする。
+4. 右上の「展開して読み込む」で「X-Distraction-Remover」フォルダを指定する。
