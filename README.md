@@ -10,7 +10,7 @@ Removing all distracting features from X.com
 
 # 事前準備
 1. 本レポジトリのファイルを、「X-Distraction-Remover」と名付けたローカルのフォルダに保存する。
-2. content.jsの1行目のURLを、自分のIDのURLに変更
+2. content.jsの1行目のURLを、自分のIDのURLに変更する。（メモ帳とかで開いてもできます。）
 
 # Chromeでの使い方
 1. Chromeで下記URLにアクセスする。<br>
